@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/salim-blog/static/css/main.21243890.chunk.css",
+    "main.js": "/salim-blog/static/js/main.e1570db4.chunk.js",
+    "main.js.map": "/salim-blog/static/js/main.e1570db4.chunk.js.map",
+    "runtime-main.js": "/salim-blog/static/js/runtime-main.141160b4.js",
+    "runtime-main.js.map": "/salim-blog/static/js/runtime-main.141160b4.js.map",
+    "static/js/2.012dead7.chunk.js": "/salim-blog/static/js/2.012dead7.chunk.js",
+    "static/js/2.012dead7.chunk.js.map": "/salim-blog/static/js/2.012dead7.chunk.js.map",
+    "index.html": "/salim-blog/index.html",
+    "static/css/main.21243890.chunk.css.map": "/salim-blog/static/css/main.21243890.chunk.css.map",
+    "static/js/2.012dead7.chunk.js.LICENSE.txt": "/salim-blog/static/js/2.012dead7.chunk.js.LICENSE.txt",
+    "static/media/me.f0d8fbe8.jpeg": "/salim-blog/static/media/me.f0d8fbe8.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.141160b4.js",
+    "static/js/2.012dead7.chunk.js",
+    "static/css/main.21243890.chunk.css",
+    "static/js/main.e1570db4.chunk.js"
+  ]
+}
